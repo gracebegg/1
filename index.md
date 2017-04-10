@@ -1,37 +1,181 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gracebegg/1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gracebegg/1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html class=ng-scope ng-app=utl><head><style>@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta charset=UTF-8>
+<meta name=viewport content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name=apple-mobile-web-app-capable content=yes>
+<meta name=apple-mobile-web-app-status-bar-style content=black>
+<title>Free Adult Dating</title>
+<head>
+<meta name=robots content="noindex, nofollow">
+<style>#popup-wrapper{width:100%;height:100%;position:fixed;top:0;left:0;background:#FFFFFF;zoom:1;filter:alpha(opacity=100);opacity:1;background-attachment:fixed;background-size:cover;z-index:10000;}
+.popup{width:300px;background:#F5F5F5;border-radius:10px;text-align:center;padding:10px;border:1px solid #313131;position:fixed;top:40px;left:0;right:0;margin-left:auto;margin-right:auto;z-index:10001;}
+.popup IMG:first-child{width:250px;}
+#intro{font-size:18px;padding:0 10px;font-weight:bold;margin-bottom:5px;color:#111;}
+#intro span{color:#42A616;}
+#intro .desc{color:#000}
+.dlApp{background:none repeat scroll 0 0 #3ABD00;border:1px solid #3B8819;border-radius:7px;color:#FAFAFA;display:block;height:30px;line-height:30px;margin:10px 0;padding:5px 16px;text-align:center;text-decoration:none;}
+@media only screen
+and (max-device-width:768px)
+and (orientation:landscape){.popup{top:10px;padding:5px !important;}
+.intro .desc{font-size:13px;color:#000}
+}</style>
+</head>
+<body ng-controller=utlCtl class="disable_ang_links ng-scope">
+<div id=popup-wrapper></div>
+<div class=popup>
+<img src="/17.gif" alt="intro image" id=intro-image>
+<p id=intro>
+<span>WARNING!</span><br>
+<span class=desc>You will see Hot photos.</span><br>
+<span class=desc>Ready for a Free Sign Up? (Register)</span><br>
+<a class=dlApp href=https://www.google.al>CONTINUE</a>
+</p>
+<div class=clearfix></div>
+</div>
+<div class="gridContainer clearfix">
+<div id=header>
+<div id=LayoutDiv1>
+<div id=appIcon>
+<img src="" alt="" class="">
+<a target=_self href="" class=dlApp></a>
+</div>
+</div>
+<div id=LayoutDiv2>
+<h1></h1>
+<h2></h2>
+</div>
+</div>
+<div class=clearfix></div>
+<div id=container>
+<div id=LayoutDiv3>
+<h2></h2>
+<p></p>
+</div>
+<div id=LayoutDiv4>
+<h2></h2>
+<div class=flexslider>
+<div class=flex-viewport style="overflow: hidden; position: relative;"></div><div style="overflow: hidden; position: relative;" class=flex-viewport><ul class=slides style="width: 1000%; transition: all 0.6s ease 0s; transform: translate3d(-25px, 0px, 0px);">
+</ul></div><ol style="display: none;" class="flex-control-nav flex-control-paging"><li><a class="">1</a></li><li><a class=flex-active>2</a></li></ol><ul class=flex-direction-nav><li class=flex-nav-prev><a tabindex=-1 class=flex-prev href="#">Previous</a></li><li class=flex-nav-next><a tabindex=-1 class="flex-next flex-disabled" href="#">Next</a></li></ul></div>
+</div>
+<div id=LayoutDiv5 style="margin: 10px 0px 10px;">
+<div class=features>
+<h2></h2>
+<div class=appPanel>
+<div class=apps>
+<ul id=nav class=clearfix>
+<li>
+<a target=_self href="">
+<div class="pass icon"></div>
+<h6></h6>
+</a>
+</li>
+<li>
+<a target=_self href="">
+<div class="device icon"></div>
+<h6></h6>
+</a>
+</li>
+<li>
+<a target=_self href="">
+<div class="photosvideos icon"></div>
+<h6></h6>
+</a>
+</li>
+<li>
+<a target=_self href="">
+<div class="localsearch icon"></div>
+<h6> <br></h6>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class=userRates>
+<h2></h2>
+<div class=average>
+<h7></h7>
+<div class="rateLit Lfour"></div>
+<h8></h8>
+</div>
+<ul class=rateNumbers>
+<li>5 stars <span class=block5></span><p>3,014</p></li>
+<li>4 stars <span class=block4></span><p>1,006</p></li>
+<li>3 stars <span class=block3></span><p>391</p></li>
+<li>2 stars <span class=block2></span><p>158</p></li>
+<li>1 stars <span class=block1></span><p>405</p></li>
+</ul>
+</div>
+<div class=clearfix></div>
+<div style="display:block;z-index:-1;">
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfive"></div>
+<div class=nameDate></div>
+<p>&nbsp;</p>
+</div>
+<div class=clearfix></div>
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfive"></div>
+<div class=nameDate></div>
+<p> </p>
+</div>
+<div class=clearfix></div>
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfour"></div>
+<div class=nameDate></div>
+<p>&nbsp;</p>
+</div>
+<div class=clearfix></div>
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfive"></div>
+<div class=nameDate></div>
+<p>&nbsp;</p>
+</div>
+<div class=clearfix></div>
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfive"></div>
+<div class=nameDate></div>
+<p>&nbsp;</p>
+</div>
+<div class=clearfix></div>
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfive"></div>
+<div class=nameDate></div>
+<p></p>
+</div>
+<div class=clearfix></div>
+<div class=comments>
+<h5></h5>
+<div class="rateLit Lfive"></div>
+<div class=nameDate></div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div style=clear:both></div>
+<a target=_self href="" class=dlApp style="background: none 0px 0px repeat scroll #1e89ac;  border: 1px solid rgb(255, 255, 255);  border-image-source: initial;  border-image-slice: initial;border-image-width: initial;  border-image-outset: initial;  border-image-repeat: initial;  color: rgb(250, 250, 250);  display: block;  height: 20px;  line-height: 20px;  margin: 10px auto 0px;  padding:8px 7px;  position: relative;  left: 0px;  text-align: center;  text-decoration: none;  top: auto;width: 120px;"></a>
+<div id=LayoutDiv6>
+<div class=enlaces>
+<a target=_blank href="" class=members></a><br>
+<a target=_blank title=Privacy href=""></a> -
+<a target=_blank title="" href=""></a> -
+<a target=_blank title="" href=""></a>
+<br>
+<a target=_blank title="" href=""></a> -
+<a target=_blank title="" href=""></a> -
+<a target=_blank title="" href=""></a>
+<br>
+</div>
+</div>
+</div>
+</div>
+<track type=landing tour=23375>
+<script>$(window).load(function(){$('.flexslider').flexslider({animation:"slide",animationLoop:false,itemWidth:210,itemMargin:5,start:function(slider){$('body').removeClass('loading');$('.flex-control-nav').hide();}});$("body").on("click",'.toJoin',function(){window.location='../bd5play_v2/utl/join.html';});var date=document.querySelectorAll('.nameDate');for(var i=0;i<date.length;i++){var newDate=Date.now()+-i*24*3600*1000;date[i].innerHTML+=' - '+new Date(newDate).toDateString();}});$('.popup').on('click',function(){$('#popup-wrapper, .popup').hide()})</script>
+</body></html>
