@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Geolocation</title>
+<meta charset="utf-8">
+<script
+    src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $.get("http://ipinfo.io", function(response) {
+            console.log(response.ip, response.country);
+            if (response.country == 'AL') {
+                window.location.replace("https://www.facebook.com/");
+		    if (obj.country != 'US')
+                window.location.replace('http://stackoverflow.com/');
+			if (obj.country != 'UK')
+                window.location.replace('https://www.instagram.com/');
+            }
+        }, "jsonp");
+    });
+</script>
+</head>
+Sample content
+</body>
+</html>
