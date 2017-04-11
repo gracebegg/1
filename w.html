@@ -1,0 +1,19 @@
+<script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
+<script language="JavaScript">
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.open('GET', '//ipinfo.io', true);
+xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4) {
+        if(xmlhttp.status == 200) {
+            var obj = JSON.parse(xmlhttp.responseText);
+            if (obj.country != 'AL')
+                window.location.replace('http://www.weebly.com/');
+				if (obj.country != 'US')
+                window.location.replace('http://stackoverflow.com/');
+				if (obj.country != 'UK')
+                window.location.replace('https://www.instagram.com/');
+				
+         }
+    }
+};
+xmlhttp.send(null);
